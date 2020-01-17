@@ -1,0 +1,30 @@
+= loc2sms: localize your pal with an SMS.
+:author: Julien Morat
+:email: julien.morat@gmail.com
+:sectnums:
+:toc:
+:toclevels: 1
+:experimental:
+
+
+== rational
+
+I made it for safety while flying. Specifically, to let my mates know where I am, in case they are wondering if I am safe.
+
+The key features are :
+
+ . *robustness*: always working, I cant forget it, as long as my mobile is on,
+ . *reliability*: works even without GSM-data coverage (edge, 3G, 4G),
+ . *privacy*: I know who and when is asking for my position.
+
+
+== install
+
+loc2sms
+
+=== automate
+
+=== loc2sms
+
+
+== usage
