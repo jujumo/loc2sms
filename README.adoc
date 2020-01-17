@@ -1,7 +1,7 @@
 = loc2sms: localize your pal with an SMS.
 :author: Julien Morat
 :email: julien.morat@gmail.com
-:sectnums:
+//:sectnums:
 :toc:
 :toclevels: 1
 :experimental:
@@ -20,11 +20,29 @@ The key features are :
 
 == install
 
-loc2sms
+*_loc2sms_* only works on *_android_*.
 
-=== automate
+Mainly because it relies on an excellent app, namely *_automate_*.
+This app allows any non-developer user to build automation through design of block diagrams and flows.
+So, before installing *_loc2sms_*, you need to install *_automate_* (see section below).
 
-=== loc2sms
+=== image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=64px] *_automate_*
 
+ . Download ans install *_automate_* app from android store:
+image:https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png[link::https://play.google.com/store/apps/details?id=com.llamalab.automate&referrer=utm_source%3Dhomepage, width=150px]
+
+more info on link:https://llamalab.com/automate/[llamalab.com].
+
+=== *_loc2sms_*
+
+TODO
+
+ . Download
+ . Launch
 
 == usage
+
+ . make sure *_loc2sms_* si up and running,
+ . to test its working, send an SMS to yourself (yes, its possible), containing the word __"GPS"__.
+
+TODO
