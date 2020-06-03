@@ -29,7 +29,7 @@ So, before installing *_loc2sms_*, you need to install *_automate_* (see section
  - install image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_* app from android store:
 image:https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png[link::https://play.google.com/store/apps/details?id=com.llamalab.automate&referrer=utm_source%3Dhomepage, width=100px],
 
- - download *_loc2sms.flow_* link:https://github.com/jujumo/loc2sms/blob/master/bin/Loc2sms.flo[github.com],
+ - download *_loc2sms.flow_* link:https://github.com/jujumo/loc2sms/blob/master/bin/Loc2sms.flo?raw=true[github.com],
 
  - open *_loc2sms.flow_* (it should automatically propose to use _automate_),
 
