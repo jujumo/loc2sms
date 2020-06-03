@@ -1,4 +1,4 @@
-= loc2sms: localize your pal with an SMS.
+= loc2sms: be localized with an SMS.
 :author: Julien Morat
 :email: julien.morat@gmail.com
 //:sectnums:
@@ -20,29 +20,51 @@ The key features are :
 
 == install
 
-*_loc2sms_* only works on *_android_*.
+Relies on image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_*
+for image:https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg["android",  width=24px] *_android_*.
 
-Mainly because it relies on an excellent app, namely *_automate_*.
 This app allows any non-developer user to build automation through design of block diagrams and flows.
 So, before installing *_loc2sms_*, you need to install *_automate_* (see section below).
 
-=== image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=64px] *_automate_*
+ - install image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_* app from android store:
+image:https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png[link::https://play.google.com/store/apps/details?id=com.llamalab.automate&referrer=utm_source%3Dhomepage, width=100px],
 
- . Download ans install *_automate_* app from android store:
-image:https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png[link::https://play.google.com/store/apps/details?id=com.llamalab.automate&referrer=utm_source%3Dhomepage, width=150px]
+ - download *_loc2sms.flow_* link:https://github.com/jujumo/loc2sms/blob/master/bin/Loc2sms.flo[github.com],
 
-more info on link:https://llamalab.com/automate/[llamalab.com].
+ - open *_loc2sms.flow_* (it should automatically propose to use _automate_),
 
-=== *_loc2sms_*
+image::assets/screeshot-00.jpg[align="center", width="200px"]
 
-TODO
+ - make sure all privileges are checked, and click on "_start_" button:
 
- . Download
- . Launch
+image::assets/screeshot-01.jpg[align="center", width="200px"]
+
+ - it should be marked as started,
+
+image::assets/screeshot-02.jpg[align="center", width="200px"]
+
+  - then exit, and check it is working (see __usage__).
+
+NOTE: See more about image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_* on link:https://llamalab.com/automate/[llamalab.com].
 
 == usage
 
- . make sure *_loc2sms_* si up and running,
- . to test its working, send an SMS to yourself (yes, its possible), containing the word __"GPS"__.
+make sure (see __install__ for details):
 
-TODO
+ - image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_* is installed (see install section),
+ - *_loc2sms.flow_* marked as started,
+ - your GPS is on.
+
+Then you can:
+
+ - send an SMS to your phone (you can do it from the phone itself for testing),
+ containing the word __"GPS"__.
+
+== contribute
+
+*_loc2sms_* is a simple script using the graph tool of image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_*.
+
+image::assets/screeshot-03.jpg[align="center", width="200px"]
+
+You can simply open it, examine it, and modify it.
+Please, provide feedback if you have any comment.
