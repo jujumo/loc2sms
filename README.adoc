@@ -20,6 +20,10 @@ The key features are :
 
 == install
 
+WARNING: each time automate is updated (even automatically), it is silently stopped. 
+You just have to open it to make it opperational again.
+
+
 Relies on image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_*
 for image:https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg["android",  width=24px] *_android_*.
 
