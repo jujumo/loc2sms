@@ -23,14 +23,13 @@ The key features are :
 WARNING: each time automate is updated (even automatically), it is silently stopped. 
 You just have to open it to make it opperational again.
 
-
-Relies on image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_*
+Relies on image:assets/ic_launcher-128.png["icon", width=24px] *_automate_*
 for image:https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg["android",  width=24px] *_android_*.
 
 This app allows any non-developer user to build automation through design of block diagrams and flows.
 So, before installing *_loc2sms_*, you need to install *_automate_* (see section below).
 
- - install image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_* app from android store:
+ - install image:assets/ic_launcher-128.png["icon", width=24px] *_automate_* app from android store:
 image:https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png[link::https://play.google.com/store/apps/details?id=com.llamalab.automate&referrer=utm_source%3Dhomepage, width=100px],
 
  - download *_loc2sms.flow_* link:https://github.com/jujumo/loc2sms/blob/master/bin/Loc2sms.flo?raw=true[github.com],
@@ -49,13 +48,13 @@ image::assets/screeshot-02.jpg[align="center", width="200px"]
 
   - then exit, and check it is working (see __usage__).
 
-NOTE: See more about image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_* on link:https://llamalab.com/automate/[llamalab.com].
+NOTE: See more about image:assets/ic_launcher-128.png["icon", width=24px] *_automate_* on link:https://llamalab.com/automate/[llamalab.com].
 
 == usage
 
 make sure (see __install__ for details):
 
- - image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_* is installed (see install section),
+ - image:assets/ic_launcher-128.png["icon", width=24px] *_automate_* is installed (see install section),
  - *_loc2sms.flow_* marked as started,
  - your GPS is on.
 
@@ -66,7 +65,7 @@ Then you can:
 
 == contribute
 
-*_loc2sms_* is a simple script using the graph tool of image:https://llamalab.com/img/automate/ic_launcher-256.png["icon", width=24px] *_automate_*.
+*_loc2sms_* is a simple script using the graph tool of image:assets/ic_launcher-128.png["icon", width=24px] *_automate_*.
 
 image::assets/screeshot-03.jpg[align="center", width="200px"]
 
