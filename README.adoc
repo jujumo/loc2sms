@@ -58,7 +58,7 @@ make sure (see __install__ for details):
 Then you can:
 
  - send an SMS to your phone (you can do it from the phone itself for testing),
- containing the word __"GPS"__.
+ starting with the word __"GPS"__.
 
 == contribute
 
