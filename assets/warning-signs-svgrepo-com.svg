@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 50 50"
+   xml:space="preserve"
+   sodipodi:docname="warning-signs-svgrepo-com.svg"
+   width="50"
+   height="50"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#111111"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="4.7232523"
+   inkscape:cx="54.41166"
+   inkscape:cy="41.073393"
+   inkscape:window-width="2560"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+<g
+   id="g249"
+   transform="matrix(0.09765625,0,0,0.09765625,0,0.6506836)"><polygon
+     style="fill:#ffa418"
+     points="0,477.703 256,477.703 289.391,256 256,34.297 "
+     id="polygon2" /><polygon
+     style="fill:#ff8a1e"
+     points="256,477.703 512,477.703 256,34.297 "
+     id="polygon4" /><g
+     id="g10">
+	<circle
+   style="fill:#324860"
+   cx="256"
+   cy="405.35901"
+   r="16.695999"
+   id="circle6" />
+	<rect
+   x="239.304"
+   y="177.185"
+   style="fill:#324860"
+   width="33.390999"
+   height="178.08701"
+   id="rect8" />
+</g></g>
+</svg>

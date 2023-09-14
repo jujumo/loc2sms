@@ -7,6 +7,9 @@
 :experimental:
 
 
+image:assets/warning-signs-svgrepo-com.svg["warning", width=64px]
+each time the app is updated (automatically), it is silently killed. See "know issues" section.
+
 == rational
 
 I made it for safety while flying. Specifically, to let my mates know where I am, in case they are wondering if I am safe.
@@ -19,9 +22,6 @@ The key features are :
 
 
 == install
-
-WARNING: each time automate is updated (even automatically), it is silently stopped. 
-You just have to open it to make it opperational again.
 
 Relies on image:assets/ic_launcher-128.png["icon", width=24px] *_automate_*
 for image:https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg["android",  width=24px] *_android_*.
@@ -74,9 +74,17 @@ Please, provide feedback if you have any comment.
 
 == Known issues
 
+=== SMS not received
+
 "Some messaging apps like Go SMS Pro and Project Fi by Google may prevent other apps from accessing incoming SMS."
 -- https://llamalab.com/automate/doc/block/sms_received.html
 
-One user reported "wifi chat" functionnality on Motorola also prevented Automate to read messages.
+One user also reported "wifi chat" functionality on Motorola also prevented Automate to read messages. You can disable this option.
 
 To check, I strongly recommend NOT to send loopback sms (same emiter and receiver), but to use another phone.
+
+=== Automate app killed
+
+Automate runs in background all the time.
+But each time the app is updated (automatically), it is silently killed. 
+You just have to open it to make it operational again.
