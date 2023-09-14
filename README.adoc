@@ -68,3 +68,12 @@ image::assets/screeshot-03.jpg[align="center", width="200px"]
 
 You can simply open it, examine it, and modify it.
 Please, provide feedback if you have any comment.
+
+== Known issues
+
+"Some messaging apps like Go SMS Pro and Project Fi by Google may prevent other apps from accessing incoming SMS."
+-- https://llamalab.com/automate/doc/block/sms_received.html
+
+One user reported "wifi chat" functionnality on Motorola also prevented Automate to read messages.
+
+To check, I strongly recommend NOT to send loopback sms (same emiter and receiver), but to use another phone.
